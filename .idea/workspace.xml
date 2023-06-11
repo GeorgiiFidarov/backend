@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9d2245d-688d-424a-9aa1-6f0358127dd0" name="Changes" comment="Extended with Spring security added two auth endpoints" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OQesJe31jUP25jSnCauB6JtXKa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/georgii/backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;b43fdd98b1fd705ae4c3a10cf25aad8a&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.greenway.backend.model" />
+      <recent name="org.greenway.backend.auth" />
+      <recent name="org.greenway.backend.service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.greenway.backend.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9d2245d-688d-424a-9aa1-6f0358127dd0" name="Changes" comment="" />
+      <created>1681497441506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681497441506</updated>
+      <workItem from="1681497444773" duration="24105000" />
+      <workItem from="1681659012311" duration="25586000" />
+      <workItem from="1681758247332" duration="2920000" />
+      <workItem from="1681818842777" duration="4562000" />
+      <workItem from="1681848131674" duration="5938000" />
+      <workItem from="1682776629642" duration="2609000" />
+      <workItem from="1683015093217" duration="1302000" />
+      <workItem from="1683016922526" duration="3004000" />
+      <workItem from="1683031220682" duration="5101000" />
+      <workItem from="1683112592720" duration="3104000" />
+      <workItem from="1683135514248" duration="734000" />
+      <workItem from="1683192370519" duration="1506000" />
+      <workItem from="1683209313224" duration="20115000" />
+      <workItem from="1683287351717" duration="6705000" />
+      <workItem from="1683308998918" duration="16368000" />
+      <workItem from="1683538486549" duration="12000" />
+      <workItem from="1683549537721" duration="672000" />
+      <workItem from="1683557849332" duration="5855000" />
+      <workItem from="1683568155306" duration="6670000" />
+      <workItem from="1683640087104" duration="5942000" />
+      <workItem from="1683709848009" duration="10150000" />
+      <workItem from="1683726671898" duration="5910000" />
+      <workItem from="1683798258893" duration="4741000" />
+      <workItem from="1683883096390" duration="3513000" />
+      <workItem from="1683990106602" duration="8389000" />
+      <workItem from="1684080012019" duration="15489000" />
+      <workItem from="1684158484950" duration="744000" />
+      <workItem from="1684179354372" duration="8194000" />
+      <workItem from="1684242666501" duration="2348000" />
+      <workItem from="1684256490862" duration="3024000" />
+      <workItem from="1684348601804" duration="1528000" />
+      <workItem from="1684402239181" duration="4248000" />
+      <workItem from="1684486398932" duration="3728000" />
+      <workItem from="1684503982016" duration="655000" />
+      <workItem from="1684575491331" duration="1253000" />
+      <workItem from="1684947673257" duration="2244000" />
+      <workItem from="1685179968564" duration="708000" />
+      <workItem from="1685294726720" duration="668000" />
+      <workItem from="1685354535875" duration="3631000" />
+      <workItem from="1685440711531" duration="6797000" />
+      <workItem from="1685548845686" duration="1854000" />
+      <workItem from="1685621738712" duration="198000" />
+      <workItem from="1685621989268" duration="117000" />
+      <workItem from="1685622128897" duration="82000" />
+      <workItem from="1685622783814" duration="2886000" />
+      <workItem from="1685639316514" duration="72000" />
+      <workItem from="1685639416286" duration="18000" />
+      <workItem from="1685639461930" duration="8000" />
+      <workItem from="1685641118703" duration="109000" />
+      <workItem from="1685641259789" duration="2217000" />
+      <workItem from="1685702693424" duration="1855000" />
+      <workItem from="1685892942208" duration="9070000" />
+      <workItem from="1686044894326" duration="4238000" />
+      <workItem from="1686134948665" duration="6465000" />
+      <workItem from="1686245760980" duration="4038000" />
+      <workItem from="1686327406992" duration="6749000" />
+      <workItem from="1686424651051" duration="153000" />
+      <workItem from="1686476913530" duration="434000" />
+      <workItem from="1686477378150" duration="20000" />
+    </task>
+    <task id="LOCAL-00001" summary="Need to Handle delete endpoint">
+      <created>1681673341492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681673341492</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Extended with Spring security added two auth endpoints">
+      <created>1683725707213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683725707213</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Need to Handle delete endpoint" />
+    <MESSAGE value="Extended with Spring security added two auth endpoints" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extended with Spring security added two auth endpoints" />
+  </component>
+</project>
